@@ -82,7 +82,7 @@ For that I'd follow the hundreds and hundred of actual step-for-step guids and t
 
 ---
 
-Last but not least:
+Last but not least:<br>
 Please let me tell you. <br>
 You can have an ultimate goal, i.e. creating your own video game, but please take it slow & easy. We all began with a simple "Hello World". :)<br>
 It has a reason why proper games are always backed up by either a great development team or time and money.<br>
