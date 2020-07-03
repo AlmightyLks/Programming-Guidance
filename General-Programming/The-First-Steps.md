@@ -24,7 +24,7 @@ print("Hello World")
 ```
 When executing this line of code, you will see the two words "Hello World" in your console window. Without any hustle you just wrote your first working line of code. Awesome!
 
-Okay, you might have tried this in your command prompt by now or maybe you even already know that it doesn't just work out of the box. :)
+Okay, you might have tried this in your command prompt by now or maybe you even already know that it doesn't just work out of the box. :)<br>
 I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/master/General-Programming/The-First-Steps.md#ProgrammingLanguages) later.
 
 
