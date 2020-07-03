@@ -30,29 +30,57 @@ I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/ma
 
 
 ---
-### <a id="ProgrammingLanguages">Which programming languages are there? | Why are there so many?</a>
+### <a id="ProgrammingLanguages">Which programming languages are there? | Why are there so many? | Which programming language should I choose?</a>
+
+* *The total number of computer languages to exist is approximately 9,000, though there are 50 that are the most       popular programming languages in use today.*
+* * TIOBE - 250
+  * Wikipedia - 700
+  * FOLDOC - 1,000
+  * The Language List - 2,500
+* So the first reason why there’s a lot of languages is because people keep creating them, even when they don’t       really need to.  Another reason is because some languages are much better suited to certain tasks than others.       Some programming languages are also much easier to learn than others.
+
+To make it short:<br>
+There are more programming languages than you could think of. Enough to be busy learning for a lifetime and further.
+As stated above, one of the reasons for so many programming languages being out there are that some languages are just made and optimized for specific tasks and fields such as data processing or game development.
+
+Now there's still the question of which language you should choose. Like I said, languages are usually made for *something*, a specific task, field or style. Try things out and start slow and easy. Let me give you some examples on what fields of programming typically use which programming languages.
+
+* Web Development
+  * Front end (What you see visually on the website)
+    - HTML & CSS
+    - Javascript
+  * Back end (The processing with algorithms and such of data)
+    - PHP
+    - Javascript (NodeJs)
+* Desktop Development (Applications & Games)
+  - C#
+  - C++
+  - Python
+  - Java
+* Mobile Development
+  - Python
+  - Java
+  - C++
+* Embedded Development (Depending on *what* you program for) 
+  - Python
+  - C++
+  - C
+  - Assembly Language
+
+From personal experience and knowledge I can tell you that embedded programming and mobile developoment are the rather complicated ones and not really beginner-friendly. Generally, I can tell you a few wide-spread and universal programming languages though:
+
+* Javascript
+* Python
+* C#
+
+These are definetly not wrong to pick up.
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Last but not least:
+Please let me tell you. <br>
+You can have an ultimate goal, to i.e. create your own video game, but please take it slow and easy.<br>
+It has a reason why proper games are always backed up by either a great development team or time and money.<br>
+You won't learn a whole programming language within a short amount of time. You will have to put patience, passion and ambition into it. <br>
+And trust me. People won't learn a language for you. But if you show those 3 traits, programmers will always be welcome to help you out with questions, just don't forget, be accurate and think out of the box. :P
