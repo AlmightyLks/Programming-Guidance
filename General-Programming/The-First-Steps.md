@@ -84,7 +84,7 @@ For that I'd follow the hundreds and hundred of actual step-for-step guids and t
 
 Last but not least:
 Please let me tell you. <br>
-You can have an ultimate goal, to i.e. create your own video game, but please take it slow and easy. We all began with a simple "Hello World". :)<br>
+You can have an ultimate goal, to i.e. create your own video game, but please take it slow and easy. We all began with a simple "Hello World".:)<br>
 It has a reason why proper games are always backed up by either a great development team or time and money.<br>
 You won't learn a whole programming language within a short amount of time. You will have to put patience, passion and ambition into it. <br>
 And trust me. People won't learn a language for you. But if you show those 3 traits, programmers will always be welcome to help you out with questions, just don't forget, be accurate and think out of the box. :P
