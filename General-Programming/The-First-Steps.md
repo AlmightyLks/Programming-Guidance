@@ -9,7 +9,7 @@ I just hope you can take a look at this and get an idea on how to start off prog
 
 
 ---
-#### What is programming? | What do you really do when you program?
+#### <a id="Programming">What is programming? | What do you really do when you program?</a>
 
 * *Programming is a way to “instruct the computer to perform various tasks”.*<br>
   *“Instruct the computer”:* this basically means that you provide the computer a set of instructions that are          written in a language that the computer can understand.
@@ -25,72 +25,12 @@ print("Hello World")
 When executing this line of code, you will see the two word "Hello World" in your console window. Without any hustle you just wrote your first working line of code. Awesome!
 
 Okay, you might have tried this in your command prompt by now or maybe you even already know that it doesn't just work out of the box. :)
-I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/master/General-Programming/The-First-Steps.md#Title) later
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<a id="Test">My New Topic</a>
+I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/master/General-Programming/The-First-Steps.md#ProgrammingLanguages) later.
 
 
 
-
+---
+### <a id="ProgrammingLanguages">Which programming languages are there? | Why are there so many?</a>
 
 
 
