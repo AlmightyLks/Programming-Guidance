@@ -41,7 +41,7 @@ I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/ma
 
 To make it short:<br>
 There are more programming languages than you could think of. Enough to be busy learning for a lifetime and further.<br>
-As stated above, one of the reasons for so many programming languages being out there are that some languages are just made and optimized for specific tasks and fields such as data processing or game development.
+As stated above, one of the reasons for so many programming languages being out there is that some languages are just made and optimized for specific tasks and fields such as data processing or game development.
 
 Now there's still the question of which language you should choose. Like I said, languages are usually made for *something*, a specific task, field or style. Try things out and start slow and easy. Let me give you some examples on what fields of programming typically use which programming languages.<br>
 
