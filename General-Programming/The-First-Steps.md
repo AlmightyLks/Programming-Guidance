@@ -25,7 +25,7 @@ print("Hello World")
 When executing this line of code, you will see the two words "Hello World" in your console window. Without any hustle you just wrote your first working line of code. Awesome!
 
 Okay, you might have tried this in your command prompt by now or maybe you even already know that it doesn't just work out of the box. :)<br>
-I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/master/General-Programming/The-First-Steps.md#ProgrammingLanguages) later.
+I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/master/General-Programming/The-First-Steps.md#OutOfTheBox) later.
 
 
 
@@ -75,7 +75,7 @@ From personal experience and knowledge I can tell you that embedded programming 
 
 These are definetly not wrong to pick up.<br>
 
-And to answer the mystery of *why it doesn't just work out of the box*:<br>
+<a id="OutOfTheBox">And to answer the mystery of *why it doesn't just work out of the box*:<br></a>
 Usually, you need to install a compiler/intepreter on your computer first.<br>
 Something that knows what your programming language's instructions mean.<br>
 For that I'd follow the hundreds and hundred of actual step-by-step guids and tutorials online explaining everything you need to know.
