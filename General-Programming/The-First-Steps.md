@@ -1,6 +1,6 @@
 # General-Programming
 ---
-### The First Steps
+### <a id="Title">The First Steps</a>
 
 You might or might not have taken a look at programming before when you read this.<br>
 You might or might not have gotten an idea on how some things look, work or maybe even have to be done.<br>
@@ -25,7 +25,7 @@ print("Hello World")
 When executing this line of code, you will see the two word "Hello World" in your console window. Without any hustle you just wrote your first working line of code. Awesome!
 
 Okay, you might have tried this in your command prompt by now or maybe you even already know that it doesn't just work out of the box. :)
-I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/master/General-Programming/The-First-Steps.md#Test) later
+I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/master/General-Programming/The-First-Steps.md#Title) later
 
 <br>
 <br>
