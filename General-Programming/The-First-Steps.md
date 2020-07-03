@@ -40,16 +40,17 @@ I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/ma
 * So the first reason why there’s a lot of languages is because people keep creating them, even when they don’t       really need to.  Another reason is because some languages are much better suited to certain tasks than others.       Some programming languages are also much easier to learn than others.
 
 To make it short:<br>
-There are more programming languages than you could think of. Enough to be busy learning for a lifetime and further.
+There are more programming languages than you could think of. Enough to be busy learning for a lifetime and further.<br>
 As stated above, one of the reasons for so many programming languages being out there are that some languages are just made and optimized for specific tasks and fields such as data processing or game development.
 
-Now there's still the question of which language you should choose. Like I said, languages are usually made for *something*, a specific task, field or style. Try things out and start slow and easy. Let me give you some examples on what fields of programming typically use which programming languages.
+Now there's still the question of which language you should choose. Like I said, languages are usually made for *something*, a specific task, field or style.<br>
+Try things out and start slow and easy. Let me give you some examples on what fields of programming typically use which programming languages.<br>
 
 * Web Development
   * Front end (What you see visually on the website)
     - HTML & CSS
     - Javascript
-  * Back end (The processing with algorithms and such of data)
+  * Back end (The processing of data with algorithms and such)
     - PHP
     - Javascript (NodeJs)
 * Desktop Development (Applications & Games)
@@ -73,7 +74,7 @@ From personal experience and knowledge I can tell you that embedded programming 
 * Python
 * C#
 
-These are definetly not wrong to pick up.
+These are definetly not wrong to pick up.<br>
 
 And to answer the mystery of *why it doesn't just work out of the box.*:<br>
 Usually, you need to install a compiler/intepreter on your computer first.<br>
