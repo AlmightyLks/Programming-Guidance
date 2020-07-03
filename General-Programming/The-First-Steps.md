@@ -75,7 +75,7 @@ From personal experience and knowledge I can tell you that embedded programming 
 
 These are definetly not wrong to pick up.<br>
 
-And to answer the mystery of *why it doesn't just work out of the box.*:<br>
+And to answer the mystery of *why it doesn't just work out of the box*:<br>
 Usually, you need to install a compiler/intepreter on your computer first.<br>
 Something that knows what your programming language's instructions mean.<br>
 For that I'd follow the hundreds and hundred of actual step-by-step guids and tutorials online explaining everything you need to know.
