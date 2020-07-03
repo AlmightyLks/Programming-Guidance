@@ -9,7 +9,7 @@ I just hope you can take a look at this and get an idea on how to start off prog
 
 
 ---
-#### What is programming?
+#### What is programming? | What do you really do when you program?
 
 
 
