@@ -56,10 +56,10 @@ And to finally set your first steps into programming, you now need to know how t
 #### <a id="ProgrammingLanguages">Which programming languages are there? | Why are there so many? | Which programming language should I choose?</a>
 
 > * *The total number of computer languages to exist is approximately 9,000, though there are 50 that are the most       popular programming languages in use today.*
->  *  * TIOBE - 250
-         * Wikipedia - 700
-         * FOLDOC - 1,000
-         * The Language List - 2,500
+>  *  TIOBE - 250<br>
+      Wikipedia - 700<br>
+      FOLDOC - 1,000<br>
+      The Language List - 2,500<br>
 >  * So the first reason why there’s a lot of languages is because people keep creating them, even when they don’t       really need to.  Another reason is because some languages are much better suited to certain tasks than others.       Some programming languages are also much easier to learn than others.
 
 To make it short:<br>
