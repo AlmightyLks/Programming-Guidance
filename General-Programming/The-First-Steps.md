@@ -30,6 +30,29 @@ I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/ma
 
 
 ---
+### <a id="Use">What can programming be used for? | What is it used for?</a>
+
+Every electronical device, has some kind of program on them. Even cars have programs on their chipsets.<br>
+And as you migh have heard, the self driving car from Tesla, lead by Elon Musk, was a programmatically breakthrough!<br>
+The "miracle" of self-driving cars is the result of a well thought out program. :)
+Okay, let's take a step back from those big things. <br>
+Your computer or your phone. They run on software, their operating system. And everything you can do on it, was programmed for you. :)<br>
+If we once again take one more step back. Do you have a calculator laying around from school, university or your office? It's a bit of plastic, maybe a little bit of glass and a bit of metal inside of it. You press a button and it appears on the screen. Kind of as if the numbers have the code
+```python
+print(num)
+```
+behind the scenes...<br>
+And to get straight to the point. Yes, even a calculator runs a program.<br>
+A calculator is a perfect example for understanding what programming can do, what it is, what it does and what you can even set yourself as a starting-project! :)<br>
+You can get to know so many programming topics and fields within a language with a simple calculator.<br>
+
+
+Now, you know a bit more about programming itself and where it appears in your everyday life.<br>
+And to finally set your first steps into programming, you now need to know how to starts with programming languages. <br>
+
+
+
+---
 ### <a id="ProgrammingLanguages">Which programming languages are there? | Why are there so many? | Which programming language should I choose?</a>
 
 * *The total number of computer languages to exist is approximately 9,000, though there are 50 that are the most       popular programming languages in use today.*
@@ -86,5 +109,5 @@ Last but not least:<br>
 Please let me tell you. <br>
 You can have an ultimate goal, i.e. creating your own video game, but please take it slow & easy. We all began with a simple "Hello World". :)<br>
 It has a reason why proper games are always backed up by either a great development team or time and money.<br>
-You won't learn a whole programming language within a short amount of time. You will have to put patience, passion and ambition into it. <br>
+You won't learn a whole programming language within a short amount of time. You will have to put patience, passion and dedication into it. <br>
 And trust me. People won't learn a language for you. But if you show those 3 traits, programmers will always be welcome to help you out with questions, just don't forget, be accurate and think out of the box. :P
