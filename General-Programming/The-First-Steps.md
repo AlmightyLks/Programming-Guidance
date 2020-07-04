@@ -36,7 +36,7 @@ Every electronical device, has some kind of program on them. Even cars have prog
 And as you migh have heard, the self driving car from Tesla, lead by Elon Musk, was a programmatically breakthrough!<br>
 The "miracle" of self-driving cars is the result of a well thought out program. :)
 Okay, let's take a step back from those big things. <br>
-Your computer or your phone. They run on software, their operating system. And everything you can do on it, was programmed for you. :)<br>
+Your computer or your phone. They run software, their operating system. And everything you can do on it, was programmed for you. :)<br>
 If we once again take one more step back. Do you have a calculator laying around from school, university or your office? It's a bit of plastic, maybe a little bit of glass and a bit of metal inside of it. You press a button and it appears on the screen. Kind of as if the numbers have the code
 ```python
 print(num)
