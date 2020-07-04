@@ -78,7 +78,8 @@ char foo = 'A';
 
 Javascript:
 ```javascript
-let foo = 'A'; //Funnily enough, in javascript characters do exist, but are rather seen as a single-letter string and not specifically as its own type.
+let foo = 'A';
+//Funnily enough, in javascript characters do exist, but are rather seen as a single-letter string and not specifically as its own type.
 ```
 
 #### string:<br>
@@ -106,31 +107,46 @@ let foo = "Hello World";
 
 #### float:<br>
 A float is a floating-point number, which means it is a number that has a decimal place.<br>
-In memory it takes up 4 bytes. Your value can be
+A float is for simple, small floating-point numbers. It can hold around 6 - 9 digits in most languages.<br>
+A wide-spread similar alternative is the double. The double, as its name suggests, was originally capable of holding values which are twice as big as those of a float, around 15 - 17 digits.<br>
 Code examples of how a declaration looks in<br>
 
 Python:
 ```python
-foo = "Hello World"
+foo = 10.01
 ```
 
 C#:
 ```csharp
-string foo = "Hello World";
+float foo = 10.01f;
 ```
 
 Javascript:
 ```javascript
-let foo = "Hello World";
+let foo = 10.01;
+//Fun fact, in the front, there is no difference between integers and floating-point numbers. In the back, every number is saved as a float in Javascript.
 ```
 
 
+#### boolean:<br>
+A boolean indicating a state, it can either be True or False.<br>
+It is as simple as that.
+Code examples of how a declaration looks in<br>
 
+Python:
+```python
+foo = True
+```
 
+C#:
+```csharp
+bool foo = true;
+```
 
-
-
-
+Javascript:
+```javascript
+let foo = true;
+```
 
 
 ---
@@ -138,7 +154,7 @@ let foo = "Hello World";
 
 * A data type is a value type if it holds the data within its own memory allocation.
 
-                                    XYZ
+[Under construction]
 
 
 
