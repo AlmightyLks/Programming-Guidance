@@ -11,9 +11,9 @@ I just hope you can take a look at this and get an idea on how to start off prog
 ---
 #### <a id="Programming">What is programming? | What do you really do when you program?</a>
 
-* *Programming is a way to “instruct the computer to perform various tasks”.*<br>
-  *“Instruct the computer”:* this basically means that you provide the computer a set of instructions that are          written in a language that the computer can understand.
-* Computer programming is a way of giving computers instructions about what they should do next. These instructions   are known as code, and computer programmers write code to solve problems or perform a task.
+> * *Programming is a way to “instruct the computer to perform various tasks”.*<br>
+    *“Instruct the computer”:* this basically means that you provide the computer a set of instructions that are          written in a language that the computer can understand.
+> * Computer programming is a way of giving computers instructions about what they should do next. These instructions are known as code, and computer programmers write code to solve problems or perform a task.
   The end goal is to create something: that could mean anything from a web page, or a piece of software, or even       just a pretty picture. That’s why computer programming is often described as a mix between art and science; it's     technical and analytical, yet creative at the same time.
 
 These described instructions are simply-put given pre-made lines of code, which you can use for whatever you want. <br>
@@ -55,12 +55,12 @@ And to finally set your first steps into programming, you now need to know how t
 ---
 #### <a id="ProgrammingLanguages">Which programming languages are there? | Why are there so many? | Which programming language should I choose?</a>
 
-* *The total number of computer languages to exist is approximately 9,000, though there are 50 that are the most       popular programming languages in use today.*
-* * TIOBE - 250
-  * Wikipedia - 700
-  * FOLDOC - 1,000
-  * The Language List - 2,500
-* So the first reason why there’s a lot of languages is because people keep creating them, even when they don’t       really need to.  Another reason is because some languages are much better suited to certain tasks than others.       Some programming languages are also much easier to learn than others.
+> * *The total number of computer languages to exist is approximately 9,000, though there are 50 that are the most       popular programming languages in use today.*
+  * * TIOBE - 250
+    * Wikipedia - 700
+    * FOLDOC - 1,000
+    * The Language List - 2,500
+  * So the first reason why there’s a lot of languages is because people keep creating them, even when they don’t       really need to.  Another reason is because some languages are much better suited to certain tasks than others.       Some programming languages are also much easier to learn than others.
 
 To make it short:<br>
 There are more programming languages than you could think of. Enough to be busy learning for a lifetime and further.<br>
