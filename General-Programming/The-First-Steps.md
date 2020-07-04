@@ -30,7 +30,7 @@ I will get to [that](https://github.com/AlmightyLks/Programming-Guidance/blob/ma
 
 
 ---
-### <a id="Use">What can programming be used for? | What is it used for?</a>
+#### <a id="Use">What can programming be used for? | What is it used for?</a>
 
 Every electronical device, has some kind of program on them. Even cars have programs on their chipsets.<br>
 And as you migh have heard, the self driving car from Tesla, lead by Elon Musk, was a programmatically breakthrough!<br>
@@ -53,7 +53,7 @@ And to finally set your first steps into programming, you now need to know how t
 
 
 ---
-### <a id="ProgrammingLanguages">Which programming languages are there? | Why are there so many? | Which programming language should I choose?</a>
+#### <a id="ProgrammingLanguages">Which programming languages are there? | Why are there so many? | Which programming language should I choose?</a>
 
 * *The total number of computer languages to exist is approximately 9,000, though there are 50 that are the most       popular programming languages in use today.*
 * * TIOBE - 250
