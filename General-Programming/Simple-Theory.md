@@ -32,7 +32,7 @@ Usually every variable you create, you create with a certain purpose.This purpos
 > * A data type is a type of data. Of course, that is rather circular definition, and also not very helpful. Therefore, a better definition of a data type is a data storage format that can contain a specific type or range of values. When computer programs store data in variables, each variable must be assigned a specific data type.
 
 Every programming language has data types. Some make it obvious, some don't.<br>
-But every modern programming language does share the same core data types.<br>
+But every modern programming language shares the same core data types.<br>
 Let's take a look at them. :)<br>
 
 #### integer:<br>
