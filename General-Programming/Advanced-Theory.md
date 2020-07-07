@@ -49,5 +49,14 @@ I will get to that after introducing you to both of them.
 Reference types store the value at a certain spot in memory and store the accessor at another spot, pointing at this value-spot.
 
 
+---
+### <a id="ValueVsReferenceType">Value Type vs Reference Type</a>
 
+[C#]<br><br>
+<img height="350px" width="auto" src="../Media/General-Programming/ValueType1.png">
+When you create a Value Type variable. Such as an integer, you can save those
 
+<img height="350px" width="auto" src="../Media/General-Programming/ReferenceType1.png">
+<img height="350px" width="auto" src="../Media/General-Programming/ReferenceType2.png">
+
+[Under construction]
