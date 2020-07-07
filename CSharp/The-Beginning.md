@@ -31,8 +31,18 @@ Throughout my documentation I will be referencing to features and options within
 You can get it [here](https://visualstudio.microsoft.com/downloads/).
 
 
-When prompted for the workloads as here: <br>
+When prompted for the workloads about as shown here: <br>
 <img height="300px" width="auto" src="../Media/CSharp/Workloads.png">
+<br>
+<br>
+All you need to select here is ".NET desktop development" and install that workload with Visual Studio.<br>
+In future you can add other workload as well, but in order to learn C#, that's really all you need.<br>
+<br>
+
+When done, congratulations :) You've setup up your proper c# coding environment.<br>
+Now you can begin with the programming language itself.<br>
+
+
 
 
 
@@ -44,3 +54,5 @@ When prompted for the workloads as here: <br>
 
 
 
+
+[Under construction]
