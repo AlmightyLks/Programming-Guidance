@@ -79,5 +79,5 @@ In order to run the program, just use the VSCode terminal and type:<br>
 ```bash
 dotnet run
 ```
-Once you finish this, you're ready to work on your first project! :)<br>
+Once you finished all of the before-mentioned steps, you're ready to work on your first project! :)<br>
 Good luck!<br>
