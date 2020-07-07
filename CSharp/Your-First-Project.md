@@ -52,7 +52,7 @@ Good luck!<br>
 #### <a id="ConsoleAppCore">Creating a console application</a>
 
 Okay. There's two ways on how to begin to achieve the same thing.<br>
-You can either go into VSCode directly and navigate to your desired project-folder or you create your project folder and open
+You can either go into VSCode directly and navigate to your desired project-folder or you create your project folder and open the folder with an option like "Open with... [XYZ] application".
 
 
 
