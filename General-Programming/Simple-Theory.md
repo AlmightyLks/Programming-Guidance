@@ -33,7 +33,7 @@ Usually every variable you create, you create with a certain purpose.This purpos
 
 Every programming language has data types. Some make it obvious, some don't.<br>
 But every modern programming language shares the same core data types.<br>
-You can take a look at some basic data types [here](/Data-types.md)
+You can take a look at some basic data types [here](Data-types.md)
 
 
 ---
