@@ -38,7 +38,7 @@ All you need to select here is ".NET desktop development" and install that workl
 In future you can add other workload as well, but in order to learn C#, that's really all you need.<br>
 <br>
 
-When done, congratulations :) You've setup up your proper c# coding environment.<br>
+When done, congratulations :) You've setup up your proper C# coding environment.<br>
 Now you can begin with the programming language itself.<br>
 
 
