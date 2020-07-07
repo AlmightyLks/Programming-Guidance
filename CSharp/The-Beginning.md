@@ -14,7 +14,7 @@ Sooo let's get started! :)<br>
 In advance before installing this, you will have to ideally install two things.<br>
 Just install the as "recommended" marked versions of each: <br>
 [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) ("Developer Pack") & [.NET Core](https://dotnet.microsoft.com/download/dotnet-core) ("SDK X.X.XXX")<br>
-Those two things are so called Frameworks. Frameworks for programming languages are just a special set of given pre-made methods and just all kind of things.<br>
+Those two things are so called Frameworks. Frameworks for programming languages are just special sets of given pre-made methods and just all kind of things.<br>
 .NET Framework -> To create Windows Applications<br>
 .NET Core -> To create Crossplatform Applications<br>
 
@@ -47,7 +47,21 @@ Now you can begin with the programming language itself.<br>
 
 ## <a id="Lin">Linux</a>
 ---
+#### <a id="IDE">Programming Environment | Code Editor</a>
 
+In advance before installing this, you will have to install one thing.<br>
+Just install the as "recommended" marked version for: <br>
+[.NET Core](https://dotnet.microsoft.com/download/dotnet-core) ("SDK X.X.XXX")<br>
+This thing is a so called Framework. Frameworks for programming languages are just special sets of given pre-made methods and just all kind of things.<br>
+.NET Core -> To create Crossplatform Applications<br>
+
+Unlike for Windows, Linux sadly has a limited support for C#. The IDE, Visual Studio, is unfortunately only available for Windows & Mac OS.<br>
+Though through the on-going support for the .NET Core framework and the community, you can also program .NET Core Applications with various normal Code Editors.<br>
+In my documentation I will be using either Visual Studio, which is unavailable for Linux, or [Visual Studio Code](https://code.visualstudio.com/), which is by the way also free, even without needing a connected microsoft account.<br>
+It might seem similar to Visual Studio, but keep in mind. It has a reason why experienced people call Visual Studio Code "just a fancy code editor". :)<br>
+It lacks some useful features which the IDE has.<br>
+
+After installing Visual Studio Code you: <br>
 
 
 
