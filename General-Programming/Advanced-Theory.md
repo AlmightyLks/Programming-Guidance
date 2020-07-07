@@ -9,7 +9,7 @@ The more advanced the topics get, the more I have to rely on my own experience a
 Due to me only being a student and somewhat of a beginning-advanced myself, it might be pretty limited in general.<br>
 But this documentation is **not** intended for highly experienced and advanced programmers anyways.<br>
 Okay, let's get started. :)<br>
-Another important note is that I will be using graphics presented in <a href="https://youtu.be/HlzAtIHFRk0" target="_blank">this</a> video. Never forget to give credits. :)
+Another important note is that I will be using graphics presented in <a href="https://youtu.be/HlzAtIHFRk0">this</a> video. Never forget to give credits. :)
 
 ---
 ### <a id="Stack">Stack</a>
