@@ -30,8 +30,7 @@ Community is free. You only need to login with a microsoft account within the fi
 Throughout my documentation I will be referencing to features and options within Visual Studio.<br>
 You can get it [here](https://visualstudio.microsoft.com/downloads/).
 
-
-When prompted for the workloads about as shown here: <br>
+While installing Visual Studio you will be prompted for the workloads about as shown here: <br>
 <img height="300px" width="auto" src="../Media/CSharp/Workloads.png">
 <br>
 <br>
