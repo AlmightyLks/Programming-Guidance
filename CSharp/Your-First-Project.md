@@ -30,7 +30,7 @@ Disclaimer!<br>
 Do not put any special characters, umlauts or spaces in the name.<br>
 You will learn on why later.<br>
 The best you could do at the beginning is UsingPascalCaseByCapitalizingTheFirstLetterOfAWord<br>
-Exmaples:<br>
+Examples:<br>
 FirstProject<br>
 TestProject<br>
 MyOwnDiscordBot<br>
@@ -62,7 +62,7 @@ Do not put any special characters, umlauts or spaces in the folder's name.<br>
 This is because the folder's name will also be the project name.<br>
 You will learn on why not to do that later.<br>
 The best you could do at the beginning is UsingPascalCaseByCapitalizingTheFirstLetterOfAWord<br>
-Exmaples:<br>
+Examples:<br>
 FirstProject<br>
 TestProject<br>
 MyOwnDiscordBot<br>
