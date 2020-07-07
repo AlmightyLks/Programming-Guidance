@@ -31,9 +31,9 @@ Do not put any special characters, umlauts or spaces in the name.<br>
 You will learn on why later.<br>
 The best you could do at the beginning is UsingPascalCaseByCapitalizingTheFirstLetterOfAWord<br>
 Exmaples:<br>
-FirstProject
-TestProject
-MyOwnDiscordBot
+FirstProject<br>
+TestProject<br>
+MyOwnDiscordBot<br>
 
 After choosing the project name, you can see the path for the default-directory for all your projects.<br>
 You can change it if you'd like.<br>
@@ -41,6 +41,9 @@ But I recommend not changing any other option you see there.<br>
 Once you finish this, you're ready to work on your first project! :)<br>
 Good luck!<br>
 
+Also an important note already.<br>
+When you want to save and work on your project at another time. Only ever open the .sln in your projects folder!<br>
+Opening other files may only result in "crashes"/failing.<br>
 
 
 
@@ -52,16 +55,28 @@ Good luck!<br>
 #### <a id="ConsoleAppCore">Creating a console application</a>
 
 Okay. There's two ways on how to begin to achieve the same thing.<br>
-You can either go into VSCode directly and navigate to your desired project-folder or you create your project folder and open the folder with an option like "Open with... [XYZ] application".
+You can either go into VSCode directly and navigate to your desired project-folder or you create your project folder and open the folder with an option like "Open with... [XYZ] application".<br>
 
+Disclaimer!<br>
+Do not put any special characters, umlauts or spaces in the folder's name.<br>
+You will learn on why later.<br>
+The best you could do at the beginning is UsingPascalCaseByCapitalizingTheFirstLetterOfAWord<br>
+Exmaples:<br>
+FirstProject<br>
+TestProject<br>
+MyOwnDiscordBot<br>
 
+Once you have your empty project folder opened in VSCode, open the VSCode Terminal.<br>
+Inside of the terminal you type:<br>
+```bash
+dotnet new console
+```
 
-
-
-
-
-
-
-
-
-
+That creates a new console (.NET Core) application in your folder.<br>
+You can now take a look at Program.cs and do whatever pleases you. :)<br>
+In order to run the program, just use the VSCode terminal and type:<br>
+```bash
+dotnet run
+```
+Once you finish this, you're ready to work on your first project! :)<br>
+Good luck!<br>
