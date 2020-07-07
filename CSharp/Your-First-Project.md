@@ -12,9 +12,9 @@ So let's split this up a little...<br>
 
 Oh, and to avoid any further confusion. When speaking of your application, it is basically the same as your project.<br>
 
-## <a id="Win">Visual Studio Community</a>
+## <a id="VS">Visual Studio Community (2019)</a>
 ---
-#### <a id="IDE">Creating a console application</a>
+#### <a id="ConsoleAppFramework">Creating a console application</a>
 
 When opening Visual Studio Community (2019) you should something like:<br><br>
 <img height="350px" width="auto" src="../Media/CSharp/VisualStudio2019StartMenu.png"><br><br>
@@ -22,10 +22,37 @@ If you would have recently-opened projects, you would see them on the left empty
 In order to create a project you simply have to click on "Create a new project"<br><br>
 When doing so you should see something like this:<br><br>
 <img height="450px" width="auto" src="../Media/CSharp/VisualStudio2019ProjectTypes.png"><br><br>
+A bunch of project-types. Don't mind them. Just search for "console"  with the search bar and be sure of two facts.<br>
+The "console app" you want has to have a green "C#" symbol on the icon & your console app should be ".NET Framework" for now.
+
+Once you select those, you can choose a project name. <br>
+Disclaimer!<br>
+Do not put any special characters, umlauts or spaces in the name.<br>
+You will learn on why later.<br>
+The best you could do at the beginning is UsingPascalCaseByCapitalizingTheFirstLetterOfAWord<br>
+Exmaples:<br>
+FirstProject
+TestProject
+MyOwnDiscordBot
+
+After choosing the project name, you can see the path for the default-directory for all your projects.<br>
+You can change it if you'd like.<br>
+But I recommend not changing any other option you see there.<br>
+Once you finish this, you're ready to work on your first project! :)<br>
+Good luck!<br>
 
 
 
 
+
+
+
+## <a id="VSCode">Visual Studio Code</a>
+---
+#### <a id="ConsoleAppCore">Creating a console application</a>
+
+Okay. There's two ways on how to begin to achieve the same thing.<br>
+You can either go into VSCode directly and navigate to your desired project-folder or you create your project folder and open
 
 
 
