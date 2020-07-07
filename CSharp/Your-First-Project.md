@@ -12,13 +12,16 @@ So let's split this up a little...<br>
 
 Oh, and to avoid any further confusion. When speaking of your application, it is basically the same as your project.<br>
 
-## <a id="Win">Windows</a>
+## <a id="Win">Visual Studio Community</a>
 ---
 #### <a id="IDE">Creating a console application</a>
 
-
-
-
+When opening Visual Studio Community (2019) you should something like:<br><br>
+<img height="350px" width="auto" src="../Media/CSharp/VisualStudio2019StartMenu.png"><br><br>
+If you would have recently-opened projects, you would see them on the left empty area.<br>
+In order to create a project you simply have to click on "Create a new project"<br><br>
+When doing so you should see something like this:<br><br>
+<img height="450px" width="auto" src="../Media/CSharp/VisualStudio2019ProjectType.jpg"><br><br>
 
 
 
