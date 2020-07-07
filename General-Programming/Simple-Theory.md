@@ -39,7 +39,22 @@ You can take a look at some basic data types [here](Data-types.md).
 ---
 ### <a id="ValueTypes">Value Types</a>
 
-* A data type is a value type if it holds the data within its own memory allocation.
+Okay, this is something that I had to learn with only C# just yet and is not really a big thing in other languages, but it indeed is something to keep in the back of your head.<br>
+
+* A [data type](Data-types.md) is a value type if it holds a data value within its own memory space. It means the variables of these data types directly contain values.
+
+Okay this might sound stupid. Of course something can only have a value if it holds its value. Or does it....?<br>
+For this we need to look at the difference between Value Types and Reference Types.<br>
+I will get to that after introducing you to it.
+
+---
+### <a id="ReferenceTypes">Reference Types</a>
+
+* Unlike value types, a reference type doesn't store its value directly. Instead, it stores the address where the value is being stored. In other words, a reference type contains a pointer to another memory location that holds the data.
+
+Reference types store the value at a certain spot in memory and store the accessor at another spot, pointing at this value-spot.
+
+
 
 [Under construction]
 
