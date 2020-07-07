@@ -31,9 +31,8 @@ Throughout my documentation I will be referencing to features and options within
 You can get it [here](https://visualstudio.microsoft.com/downloads/).
 
 
-When prompted for the workloads
-
-
+When prompted for the workloads as here: <br>
+<img height="300px" width="auto" src="../Media/CSharp/Workloads.png">
 
 
 
