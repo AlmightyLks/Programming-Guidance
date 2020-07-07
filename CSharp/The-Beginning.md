@@ -38,7 +38,7 @@ All you need to select here is ".NET desktop development" and install that workl
 In future you can add other workload as well, but in order to learn C#, that's really all you need.<br>
 <br>
 
-When done, congratulations :) You've setup up your proper C# coding environment.<br>
+When done, congratulations :) You've setup up your proper C#-Windows(/Mac) coding environment.<br>
 Now you can begin with the programming language itself.<br>
 
 
@@ -60,12 +60,14 @@ Though through the on-going support for the .NET Core framework and the communit
 In my documentation I will be using either Visual Studio, which is unavailable for Linux, or [Visual Studio Code](https://code.visualstudio.com/), which is by the way also free, even without needing a connected microsoft account.<br>
 It might seem similar to Visual Studio, but keep in mind. It has a reason why experienced people call Visual Studio Code "just a fancy code editor". :)<br>
 It lacks some useful features which the IDE has.<br>
+Anyways, it will be good enough for most of people's needs 
 
-After installing Visual Studio Code you: <br>
+After installing Visual Studio Code you will have to install one more thing. The C# extension for VSCode. <br><br>
+Simply click on the bottom-most icon on the left hand sidebar.<br>
+<img height="200px" width="auto" src="../Media/CSharp/VisualStudioCode1.png"><br><br>
+Search for the extension "C#" and install the one you see here:<br>
+<img height="300px" width="auto" src="../Media/CSharp/VisualStudioCode2.png"><br>
 
 
-
-
-
-
-[Under construction]
+When done, congratulations :) You've setup up your C#-Linux coding environment.<br>
+After restarting Visual Studio you can begin with the programming language itself.<br>
