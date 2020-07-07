@@ -21,7 +21,7 @@ When opening Visual Studio Community (2019) you should something like:<br><br>
 If you would have recently-opened projects, you would see them on the left empty area.<br>
 In order to create a project you simply have to click on "Create a new project"<br><br>
 When doing so you should see something like this:<br><br>
-<img height="450px" width="auto" src="../Media/CSharp/VisualStudio2019ProjectType.jpg"><br><br>
+<img height="450px" width="auto" src="../Media/CSharp/VisualStudio2019ProjectTypes.png"><br><br>
 
 
 
