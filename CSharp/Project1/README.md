@@ -2,9 +2,7 @@
 ---
 ### <a id="Title">Project 1</a>
 
-Okay, let's get started with your project. :)<br>
-First you need to [create a project](../Your-First-Project.md)<br>
+There's not much to say. <br>
+This readme is just for the project's agenda.<br>
+The intended order to read through is:
 
-
----
-#### <a id="Programming">What is programming? | What do you really do when you program?</a>
