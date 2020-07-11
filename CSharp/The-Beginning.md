@@ -31,7 +31,7 @@ Throughout my documentation I will be referencing to features and options within
 You can get it [here](https://visualstudio.microsoft.com/downloads/).
 
 While installing Visual Studio you will be prompted for the workloads about as shown here: <br>
-<img height="500em" width="auto" src="../Media/CSharp/Workloads.png">
+<img width="1000em" height="auto" src="../Media/CSharp/Workloads.png">
 <br>
 <br>
 All you need to select here is ".NET desktop development" and install that workload with Visual Studio.<br>
@@ -64,9 +64,9 @@ Anyways, it will be good enough for most of people's needs
 
 After installing Visual Studio Code you will have to install one more thing. The C# extension for VSCode. <br><br>
 Simply click on the bottom-most icon on the left hand sidebar.<br>
-<img height="500em" width="auto" src="../Media/CSharp/VisualStudioCode1.png"><br><br>
+<img width="150em" height="auto" src="../Media/CSharp/VisualStudioCode1.png"><br><br>
 Search for the extension "C#" and install the one you see here:<br>
-<img height="500em" width="auto" src="../Media/CSharp/VisualStudioCode2.png"><br>
+<img width="1000em" height="auto" src="../Media/CSharp/VisualStudioCode2.png"><br>
 
 
 When done, congratulations :) You've setup up your C#-Linux coding environment.<br>
