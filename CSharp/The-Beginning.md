@@ -11,13 +11,6 @@ Sooo let's get started! :)<br>
 ---
 #### <a id="IDE">Programming Environment | IDE</a>
 
-In advance before installing this, you will have to ideally install two things.<br>
-Just install the as "recommended" marked versions of each: <br>
-[.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) ("Developer Pack") & [.NET Core](https://dotnet.microsoft.com/download/dotnet-core) ("SDK X.X.XXX")<br>
-Those two things are so called Frameworks. Frameworks for programming languages are just special sets of given pre-made methods and just all kind of things.<br>
-.NET Framework -> To create Windows Applications<br>
-.NET Core -> To create Crossplatform Applications<br>
-
 Okay. First, you need your enviroment to program in. Your **I**ntegrated **D**evelopment **E**nvironment. <br>
 What is so special about an IDE? It's a program to write programs. A pretty nice program.<br>
 All you need for programming is integrated into that program for you. <br>
