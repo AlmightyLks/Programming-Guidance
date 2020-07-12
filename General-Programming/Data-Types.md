@@ -119,3 +119,40 @@ Javascript:
 ```javascript
 let foo = true;
 ```
+
+#### object:<br>
+
+Depending on your programming language, this can mean different things. Generally, just think of an object of, whatever you want to create, with multiple properties. Such as... a student-object. You can give your student-object the properties *name* and *age* for example. Those are the names of your properties.<br>
+Your student's objects's property *name* can have a value.<br>
+Same goes for the age property :)<br>
+Code examples of how objects look in<br>
+
+C#:
+```csharp
+public class Student
+{
+  public string Name;
+  public int Age;
+}
+
+public class Program
+{
+  private static void Main(string[] args)
+  {
+    Student MyFirstStudent = new Student(){
+    Name = "Peter Johnson",
+    Age = 20
+    };
+  }
+}
+```
+
+Javascript:
+```javascript
+
+var MyFirstStudent = {
+  Name: "Peter Johnson",
+  Age: 20
+};
+//This is the simplest version of an object in JS, it can also be created via a class.
+```
