@@ -37,7 +37,74 @@ You can take a look at some basic data types [here](Data-Types.md).
 
 
 ---
-### <a id="Methods">Methods (/Functions)</a>
+### <a id="Functions">Functions (/Methods)</a>
+
+> * A function is a block of organized, reusable code that is used to perform a single, related action. Functions provide better modularity for your application and a high degree of code reusing. 
+> * In programming, a named section of a program that performs a specific task. In this sense, a function is a type of procedure or routine.
+
+A function, depending on the context (/programming language), also called *procedure* or *method*, encapsulates a certain algorithmic or Task.<br>
+
+Let's say you have created your own sorting algorithm. And you need to use it multiple times in your code.<br>
+Instead of copy and pasting the algorithm over and over in your program, you put it in a method and you only call the method wherever<br>
+One example in Python:<br>
+
+So instead of doing this:<br>
+
+
+```python
+def main():
+  print("Enter the number 1!")
+  myVariable = input()
+  if myVariable == 1:  
+    #Your algorithm which you made...
+    #Which takes up...
+    #Many...
+    #Lines...
+    #Of...
+    #Code...
+  else:
+    print("Your number is not 1, but we will change that.")
+    myVariable = 1
+    #Your algorithm which you made...
+    #Which takes up...
+    #Many...
+    #Lines...
+    #Of...
+    #Code...
+
+if __name__ == '__main__':
+  main()
+```
+
+You should rather do this:<br>
+
+```python
+def MyOwnAlgorithm():
+    #Your algorithm which you made...
+    #Which takes up...
+    #Many...
+    #Lines...
+    #Of...
+    #Code...
+
+def main():
+  print("Enter the number 1!")
+  myVariable = input()
+  if myVariable == 1:
+    MyOwnAlgorithm()
+  else:
+    print("Your number is not 1, but we will change that.")
+    myVariable = 1
+    MyOwnAlgorithm()
+
+if __name__ == '__main__':
+  main()
+```
+
+
+
+
+
 
 
 [Under construction]
