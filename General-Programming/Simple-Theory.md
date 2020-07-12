@@ -36,6 +36,10 @@ But every modern programming language shares the same core data types.<br>
 You can take a look at some basic data types [here](Data-Types.md).
 
 
+---
+### <a id="Methods">Methods (/Functions)</a>
+
+
 [Under construction]
 
 
