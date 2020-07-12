@@ -64,9 +64,11 @@ And to finally set your first steps into programming, you now need to know how t
 
 To make it short:<br>
 There are more programming languages than you could think of. Enough to be busy learning for a lifetime and further.<br>
-As stated above, one of the reasons for so many programming languages being out there is that some languages are just made and optimized for specific tasks and fields such as data processing or game development.
+As stated above, one of the reasons for so many programming languages being out there is that some languages are just made and optimized for specific tasks and fields such as data processing or game development.<br>
 
-Now there's still the question of which language you should choose. Like I said, languages are usually made for *something*, a specific task, field or style. Try things out and start slow and easy. Let me give you some examples on what fields of programming typically use which programming languages.<br>
+And you might think yourself "Which language is 'future-proof'?", "Which language is worth learning?". Don't worry about that. Actual programming is not about trends. Programming is about the mindset, knowledge and experience. You can have knowledge in C# and use this knowledge in Javascript, for example. Or your can use your Java knowledge in C#. The language doesn't matter. It's always the same, just different syntax. So all you really need to get into is your specific type and area of programming. We will get to that now.<br>
+
+Now there's still the question of which language you will finally choose. Like I said, languages are usually made for *something*, a specific task, field or style. Try things out and start slow and easy. Let me give you some examples on what fields of programming typically use which programming languages.<br>
 
 * Web Development
   * Front end (What you see visually on the website)
