@@ -47,7 +47,7 @@ Your code isn't always going to be using hardcoded data.<br>
 Make it flexible to whatever input.<br>
 Here we will make it flexible to whatever the user enters.<br>
 Our next task:<br>
-Prompt the user to enter their name and age and welcome them using those infos.<br>
+Prompt the user to enter their name and age and welcome them using that info.<br>
 
 Advice:<br>
 - Make use of pre-made methods :P<br>
