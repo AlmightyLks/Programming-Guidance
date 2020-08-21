@@ -16,7 +16,7 @@ And everything we will do for now, has to be within the curly bracket { } of the
 
 
 ---
-#### <a id="Program">Variables</a>
+#### <a id="Variables">Variables</a>
 
 If you have absolutely no idea what data types are, you can take a look at [this](../../General-Programming/Data-Types.md).<br>
 Okay. Simply put, the way you create variables in C# is pretty much always the same.<br>
@@ -42,7 +42,7 @@ string foo = 1;
 
 
 ---
-#### <a id="Program">Pre-made Methods</a>
+#### <a id="Methods">Pre-made Methods</a>
 
 Okay. You basically know how to create variables now. :) Perfect.<br>
 What about we take a look at a few of those pre-made methods we were given by our framework and console-type of project.<br>
