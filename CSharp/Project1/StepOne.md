@@ -84,7 +84,7 @@ Now you basically understand how methods work. :)<br>
 
 
 Soooo. One essential pre-given method is WriteLine(). You can access it over the Console class. :)<br>
-It basically prints out whatever string you put into the parameters and then enters the next line. Leave an empty line will immediately enter the next line, leaving the line empty.<br>
+It basically prints out whatever string you put into the parameters and then enters the next line. Leaving an empty line will immediately enter the next line.<br>
 In most code editors / IDEs you can hover over a written keyword / Method / etc. and it will tell you some information about it. It will be handy in the future. :)<br>
 
 ```csharp
