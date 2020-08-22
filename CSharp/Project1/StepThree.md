@@ -79,7 +79,7 @@ Example:
 string[] carBrands = new string[10];
 ```
 This array is of type _string_, it is declared as _carBrands_ and can hold _10_ elements/entries.<br>
-This size cannot be changed just like that is kind of static.<br>
+This size cannot be changed just like that, it's kind of static.<br>
 
 Now let's create us something useful.<br>
 
