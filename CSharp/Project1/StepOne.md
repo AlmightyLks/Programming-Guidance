@@ -79,7 +79,7 @@ public void PrintSumOfTwoNumbers(int Num1, int Num2)
   Console.WriteLine(result);
 }
 ```
-The parameter at the method indicates, that you will have to provide two integers when calling the method.<br>
+The parameters at the method indicates, that you will have to provide two integers when calling the method.<br>
 Now you basically understand how methods work. :)<br>
 
 
