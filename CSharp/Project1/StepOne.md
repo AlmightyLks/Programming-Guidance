@@ -12,7 +12,7 @@ For this purpose you could call it "Project1", because this project is just mean
 
 Once you've created your console app, you will see a Program.cs file in your project folder.<br>
 That's the program-entrance of your program. Your program will always start in the pre-made "Main" method.<br>
-And everything we will do for now, has to be within the curly bracket { } of the Main-method.<br>
+And everything we will do for now, has to be within the curly brackets { } of the Main-method.<br>
 
 
 ---
