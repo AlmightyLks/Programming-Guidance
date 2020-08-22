@@ -90,7 +90,7 @@ string[] names = new string[10];
 
 An array that can hold 10 names for us.<br>
 
-For our project, we need to create this array at the top of our Main-Method, so we can use this array everywhere of our array. Also, for our purpose, we need an indicator variable for which one is the next available entry.<br>
+For our project, we need to create this array at the top of our Main-Method, so we can use this array everywhere. Also, for our purpose, we need an indicator variable for which one is the next available entry.<br>
 an array's indicator ranges from 0 - (array length - 1), keep that in mind.<br>
 
 Soo. At the top of your main method should be something something like<br
