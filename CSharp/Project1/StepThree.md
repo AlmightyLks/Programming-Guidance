@@ -47,6 +47,21 @@ you can convert one datatype into another and that way you can, for instance, st
 Great! Now your program is one step closer to be flexible to whatever the user inputs :)<br>
 Let's continue...
 
+---
+#### <a id="MainLoop">Main-Loop</a>
+
+For console apps, it is common to have a main-loop to run through when having multiple options in your program. I.e. for a menu, so your program doesn't automatically end when executing one certain option.
+
+This is done by creating a boolean variable and a loop with the condition of that boolean.<br>
+Example:<br>
+```csharp
+bool mainLoop = true;
+while(mainLoop)
+{
+  //Do stuff
+}
+```
+
 
 ---
 #### <a id="LotsOfData">Lots of data</a>
@@ -63,8 +78,38 @@ Example:
 ```csharp
 string[] carBrands = new string[10];
 ```
-<br>
-This array is of type _string_, it is declared as _carBrands_ and can hold _10_ elements/entries
+This array is of type _string_, it is declared as _carBrands_ and can hold _10_ elements/entries.<br>
+This size cannot be changed just like that is kind of static.<br>
+
+Now let's create us something useful.<br>
+
+
+```csharp
+string[] names = new string[10];
+```
+
+An array that can hold 10 names for us.<br>
+
+For our project, we need to create this array at the top of our Main-Method, so we can use this array everywhere of our array. Also, for our purpose, we need an indicator variable for which one is the next available entry.<br>
+an array's indicator ranges from 0 - (array length - 1), keep that in mind.<br>
+
+Soo. At the top of your main method should be something something like<br
+```csharp
+string[] names = new string[10];
+int nextEntry = 0;
+```
+
+
+
+
+
+
+
+
+
+
+[Under Construction]
+
 
 
 
