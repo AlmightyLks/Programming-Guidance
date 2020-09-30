@@ -43,7 +43,7 @@ print(num)
 ```
 behind the scenes...<br>
 And to get straight to the point. Yes, even a calculator runs a program.<br>
-A calculator is a perfect example for understanding what programming can do, what it is, what it does and what you can even set yourself as a starting-project! :)<br>
+A computer calculator is a perfect example for understanding what programming can do, what it is, what it does and what you can even set yourself as a starting-project! :)<br>
 You can get to know so many programming topics and fields within a language with a simple calculator.<br>
 
 
