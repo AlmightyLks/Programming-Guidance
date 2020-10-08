@@ -11,4 +11,4 @@
 - [Advanced Theory](Advanced-Theory.md)
   - Explanation of more advanced theory, explained as easy as possible
 - [Programming Talks](Programming-Talks.md)
-  - Recommendations of programming talks off YouTube
+  - Recommendations of programming talks & such off YouTube
