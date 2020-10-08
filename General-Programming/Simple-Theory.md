@@ -5,17 +5,12 @@
 Okay. Here I will talk about some general simple programming theory which is generally shared across all languages.<br>
 I will give examples of various programming languages, but I will not go into one specific language here.<br>
 
-
-
-
-
 ---
 ### <a id="Syntax">Syntax</a>
 
 Syntax refers to the spelling and grammar of a programming language. <br>
 Computers are inflexible machines that understand what you type only if you type it in the exact form that the computer expects.<br>
 The expected form is called the syntax.<br>
-
 
 ---
 ### <a id="Variables">Variables</a>
@@ -24,6 +19,12 @@ Variables are used to store information to be referenced and manipulated in a co
 They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves.
 It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory.<br>
 Usually every variable you create, you create with a certain purpose.This purpose reflects on the data type and the variable name you give it.<br>
+
+---
+### <a id="Loops">Loops</a>
+
+There are 4 main types of loops. <br>
+[Under Construction]
 
 ---
 ### <a id="DataTypes">Data Types</a>
