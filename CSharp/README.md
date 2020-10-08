@@ -8,4 +8,3 @@ The intended order to read through is:
 
 1. [The-Beginning.md](The-Beginning.md)
 2. [Your-First-Project.md](Your-First-Project.md)
-3. [Project1](Project1)
