@@ -1,13 +1,14 @@
-# CSharp
+# General-Programming
 ---
-### <a id="Title">General-Programming</a>
 
-There's not much to say. <br>
-This readme is just for the folder's agenda.<br>
-The intended order to read through is:
 
-1. [The First Steps](The-First-Steps.md)
-2. [Simple Theory](Simple-Theory.md)
-3. [Data Types](Data-Types.md)
-4. [](Your-First-Project.md)
- 
+- [The First Steps](The-First-Steps.md)
+  - Information on programming before starting off
+- [Simple Theory](Simple-Theory.md)
+  - Explanation of simple beginner theory, explained as easy as possible
+- [Data Types](Data-Types.md)
+  - Explaining general programming data types present in pretty much all languages
+- [Advanced Theory](Advanced-Theory.md)
+  - Explanation of more advanced theory, explained as easy as possible
+- [Programming Talks](Programming-Talks.md)
+  - Recommendations of programming talks off YouTube
