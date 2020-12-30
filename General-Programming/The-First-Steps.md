@@ -103,6 +103,7 @@ These are definetly not wrong to pick up.<br>
 
 <a id="OutOfTheBox">And to answer the mystery of *why it doesn't just work out of the box*:<br></a>
 Usually, you need to install a compiler/intepreter on your computer first.<br>
+Perhaps even a so called runtime environemt.<br>
 Something that knows what your programming language's instructions mean.<br>
 For that you should follow the hundreds and hundred of actual step-by-step guides and tutorials online explaining everything you need to know.
 
