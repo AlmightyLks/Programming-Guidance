@@ -1,6 +1,22 @@
-# CSharp
----
-### <a id="Title">The Beginning</a>
+Written by: [AlmightyLks](https://github.com/AlmightyLks)
+
+# CSharp  
+---  
+### <a id="General">General</a>
+If you already have experience with programming and you are a bit confused about some terminology, then you may want to take a look at [this](https://youtu.be/bEfBfBQq7EE), which explains everything very well.  
+C# is a compiled language. That means, it will throw your human-readable code into a compiler and it will make a machine-readable executable (for example an .exe) out of it.  
+For a deeper insight of how compilers work, again you may want to look into [this here](https://youtu.be/QXjU9qTsYCc). :)  
+<br>
+When working with C# you will create projects. Every program you make is a project.  
+And furthermore you will always, at the very least, have 2 files:  
+1 `.csproj` file, which describes your project details, such as version numbers of the language, the framework, the project type or libraries you use.  
+And 1 `.cs` file. The csharp code file, where your code goes into. :)  
+<br>
+As soon as you `build`/`compile` your program/project, it will create two folders:  
+1 `obj` folder necessary for compiling your program but only temporary and 1 `bin` folder, containing your binaries aka your .exe output.  
+
+
+### <a id="Title">Setup</a>
 
 Welcome to my first programming language-dedicated documentation. :)<br>
 I will be going through the setup of a proper coding environment for either your <a href="#Win">Windows</a> or <a href="#Lin">Linux</a> machine. <br>
